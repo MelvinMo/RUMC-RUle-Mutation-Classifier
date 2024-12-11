@@ -1,6 +1,6 @@
 # RUMC: **RU**le **M**utation **C**lassifier
 
-**Authors:** [Melvin Mokhtari](https://melvinmokhtari.com/)
+**Author:** [Melvin Mokhtari](https://melvinmokhtari.com/)
 
 **Available in:** [arXiv](https://www.sciencedirect.com/journal/expert-systems-with-applications), December 2024
 
