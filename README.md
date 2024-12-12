@@ -2,11 +2,11 @@
 
 **Author:** [Melvin Mokhtari](https://melvinmokhtari.com/)
 
-**Available in:** [arXiv](https://www.sciencedirect.com/journal/expert-systems-with-applications), December 2024
+**Available in:** [arXiv](https://arxiv.org/abs/2412.07885), December 2024
 
 **Paper can be found:**
 - [Directly](https://github.com/MelvinMo/RUMC-RUle-Mutation-Classifier/blob/main/RUMC_A%20Rule-based%20Classifier%20Inspired%20by%20Evolutionary%20Methods.pdf)
-- [arXiv](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007632?via%3Dihub)
+- [arXiv](https://arxiv.org/abs/2412.07885)
 
 **Code and data can also be accessed:**
 - Locally in this GitHub repository
